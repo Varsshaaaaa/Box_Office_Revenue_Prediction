@@ -65,5 +65,5 @@ This project predicts box office revenue using machine learning techniques, part
 - Feature scaling and transformation improve model accuracy.
 - Advanced regression models like XGBoost perform better than simple linear regression.
 
-This README provides a structured explanation for HR discussions and technical presentations.
+
 
